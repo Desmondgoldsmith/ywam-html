@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>Crose - Modern Church Template | Home</title>
+    <title>YWAM - Legon | Home</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -47,8 +47,8 @@
                             </div>
                             <!-- Top Header Meta -->
                             <div class="top-header-meta">
-                                <a href="mailto:info.deercreative@gmail.com" class="email-address"><i class="fa fa-envelope" aria-hidden="true"></i> <span>info.deercreative@gmail.com</span></a>
-                                <a href="#" class="phone"><i class="fa fa-phone" aria-hidden="true"></i> <span>+12 345 678 910</span></a>
+                                <a href="mailto:info.deercreative@gmail.com" class="email-address"><i class="fa fa-envelope" aria-hidden="true"></i> <span>perezd295@gmail.com</span></a>
+                                <a href="#" class="phone"><i class="fa fa-phone" aria-hidden="true"></i> <span>+233 20 562 7670</span></a>
                             </div>
                         </div>
                     </div>
